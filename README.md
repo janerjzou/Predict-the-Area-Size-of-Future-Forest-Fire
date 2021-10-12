@@ -1,5 +1,5 @@
 # Predict-the-Area-Size-of-Future-Forest-Fire
-## COMP5318 Machine Learning - Assignment2
+## COMP5318 Machine Learning - Assignment 2
 Sep 2020 - Oct 2020
 
 
