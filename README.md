@@ -3,10 +3,13 @@
 SEP 2020 - OCT 2020
 
 
-The aim of the project is to apply analytic skills and machine learning algorithms to predict the potential area size of the forest fire in the future.
+The forest fire has a huge impact on public well-being. Predict the area size of future forest fire is necessary for the public benefit. The study has applied three machine learning algorithms, Support Vector Regression (SVR), Artificial Neural Networks (ANN) and Random Forest Polynomial (RFP), to forecast the area size of the fire. Considering the overall mean absolute error and computational cost, the SVR model is considered as the most proper algorithm for such prediction.
 
-* EDA
-* Data pre-processing
-* Built the regression model by using SVR machine learning algorithm.
 
-The dataset is downloaded from https://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/forestfires.csv
+* Data Overview
+* Support Vector Regression (SVR)
+* Artificial Neural Networks (ANN)
+* Random Forest Polynomial (RFP)
+* Model Evaluation and Comparison
+
+The dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/Forest+Fires
